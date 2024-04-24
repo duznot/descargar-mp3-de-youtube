@@ -23,7 +23,7 @@ Instala las dependencias necesarias ejecutando el siguiente comando:
 
 ```bash
 pip install pytube youtubesearchpython
-'''
+```
 ## Uso
 
 1. Ejecuta el script `descargar_musica_por_link.py`.
