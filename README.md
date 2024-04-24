@@ -2,6 +2,8 @@
 # Descargar Música desde YouTube
 
 Una aplicación simple para descargar música de YouTube con una interfaz gráfica usando Python y Tkinter.
+esta creado el .exe del python de manera segura pero tambien esta el codigo abierto por si desean cambiar algo o
+sacar su propio .exe despues de analizar el programa
 
 ## Funcionalidades
 
